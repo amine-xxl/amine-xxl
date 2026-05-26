@@ -1,6 +1,6 @@
 Hi there 👋 I'm Mohammed-Amine Rhazi  
 
-🧑‍💻 I'm a future Full Stack developer and a trainer at ISTA ADARISSA FES  
+🧑‍💻 I'm a future Full Stack developer and an actuall trainer at ISTA ADARISSA FES  
 ⌨️ I create responsive web applications using modern technologies  
 
 ---
@@ -22,8 +22,8 @@ Hi there 👋 I'm Mohammed-Amine Rhazi
 
 ---
 
-### 🚌 Bus Management System (PFE Project)
-> End-of-study project for managing transportation operations  
+### 🚌 Bus Management System - Issal Fes (PFE Project)
+> End-of-study project for managing Bus operations  
 
 - 🔗 Backend Repository: https://github.com/amine-xxl/Issal-Fes-Back.git  
 - 🔗 Frontend Repository: https://github.com/amine-xxl/Issal-Fes-Front.git
