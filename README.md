@@ -25,7 +25,8 @@ Hi there 👋 I'm Mohammed-Amine Rhazi
 ### 🚌 Bus Management System (PFE Project)
 > End-of-study project for managing transportation operations  
 
-- 🔗 Repository: https://github.com/amine-xxl/Projet-Gestion-Bus.PFF  
+- 🔗 Backend Repository: https://github.com/amine-xxl/Issal-Fes-Back.git  
+- 🔗 Frontend Repository: https://github.com/amine-xxl/Issal-Fes-Front.git
 
 **Features:**
 - 🚌 Bus and route management  
